@@ -1,0 +1,18 @@
+{
+  "name": "stmQ6",
+  "version": "1.0.0",
+  "description": "STM assignment Retriveing top results ",
+  "main": "index.js",
+  "repository": "https://github.com/Xfinity-bot/stm-sel-node-q6.git",
+  "author": "Xfinity-bot <sriganesh7334@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^114.0.2",
+    "selenium-webdriver": "^4.10.0"
+  },
+  "scripts": {
+    "start": "node  index.js"
+  }
+ 
+  
+}
